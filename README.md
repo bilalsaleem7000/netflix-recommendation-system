@@ -30,6 +30,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Live Demo
+
+[Click Here to Open App](https://netflix-recommendation-system-kpxjkwknkx9damp6xslabx.streamlit.app/)
+
+
 ## Screenshots
 
 ![Netflix App](images/screenshot.png)
